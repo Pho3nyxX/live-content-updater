@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
 	btn.addEventListener("click", (event) => {
 		let inputVal = txt.value;
-		if(inputVal === "" || inputVal === null){
+		if(inputVal.trim() === "" || inputVal === null){
             return;
         }else{
             span.innerHTML = inputVal;

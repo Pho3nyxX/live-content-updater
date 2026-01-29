@@ -5,18 +5,18 @@ This is a simple JavaScript project that allows users to update part of a webpag
 ![Live Content Updater](./images/preview.png)
 
 ---
-## 🚀 Features
+## Features
 - Updates UI text instantly on button click
 - Prevents empty, null, and whitespace-only values from being displayed
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 - JavaScript 
 
 ---
-## ⚡ Getting Started
+## Getting Started
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/live-content-updater.git
